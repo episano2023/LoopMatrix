@@ -14,3 +14,4 @@ To develop this project, I used the following technologies:
 ## How to Run the Project
 The only you need to be able to use this console application is the Microsoft Visual Studio (I used the 2022 Enterprise edition).
 If you have it, should download the project from the github repository, and open the solution. After that, you should just run the project and if all works fine, you will see a console window. Inside this, you should enter the path of your matrix file, or click ENTER to use the default matrix (included in the project).
+After that, the process will start to iterate on the matrix, to find the longest chain. When it is found, in the console window you could know that chain, and your direction and start's coordinates.
